@@ -1,4 +1,4 @@
-# A Best Shop Bot In The World - Azury Manager!
+# A Best Shop Bot In The World - ActiveDev Manager!
 
 # You can manage your members, set status-role, auto members count, and anti-spam, and much more!
 
